@@ -1,0 +1,13 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+randomize()
+int n;
+cin>>n;
+p=random(11);
+for(int p=1;p<=n;p++)
+{
+cout<<"*";
+}
+}
